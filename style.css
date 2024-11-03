@@ -20,3 +20,8 @@
   color: red;
   font-size: 20px;
 }
+
+.linha1{
+  color: red;
+  text-shadow: 1px 1px 0 mediumpurple;
+}

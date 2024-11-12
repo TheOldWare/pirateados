@@ -6,6 +6,7 @@
 
 .titulo1{
   color: red;
+  text-align: center;
 }
 
 .link{
@@ -30,4 +31,12 @@
 
 .detalhes{
   color: red;
+  font-size: 35px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: darkred;
 }
